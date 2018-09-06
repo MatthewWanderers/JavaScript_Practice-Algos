@@ -25,4 +25,4 @@ String.prototype.substrings = function () {
   }
   return substrings;
 };
-console.log("abc".substrings());
+// console.log("abc".substrings());
