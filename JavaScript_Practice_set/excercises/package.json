@@ -1,0 +1,27 @@
+{
+  "name": "js-reversi",
+  "version": "0.0.0",
+  "description": "A Reversi CLI game.",
+  "scripts": {
+    "start": "node bin/main.js",
+    "test": "./node_modules/mocha/bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/appacademy/js-reversi"
+  },
+  "author": "App Academy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/appacademy/js-reversi/issues"
+  },
+  "devDependencies": {
+    "eslint": "^5.5.0",
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-config-google": "^0.10.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-jsx-a11y": "^6.1.1",
+    "eslint-plugin-react": "^7.11.1",
+    "mocha": "~1.13.0"
+  }
+}
